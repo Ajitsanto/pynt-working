@@ -28,7 +28,7 @@ const Hero = () => {
           to Investments.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-         Offering higher potential returns comaprared to traditional investments.
+         Offering higher potential returns compared to traditional investments.
         </p>
       </div>
 
